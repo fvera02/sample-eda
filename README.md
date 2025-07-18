@@ -1,5 +1,7 @@
 # Will the Customer Accept the Coupon?
 
+**Assignment notebook:** https://github.com/fvera02/sample-eda/blob/main/prompt.ipynb
+
 ## What is the problem?
 This project aims to understand the differences between customers who accept the driving coupon and those who do not.
 It uses exploratory data analysis, statistical summarization, and data visuazliation to discern some findings.
